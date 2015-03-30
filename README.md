@@ -28,6 +28,8 @@ practices?
     Philip B. Stark (co-organizer)
     Department of Statistics, UC Berkeley
 
+* [slides](slides/ms78-millman.pdf)
+
 We frame the minisymposium in the context of our
 experience teaching computing with data to undergraduates.
 We discuss our recent efforts to automate grading student computational
@@ -39,12 +41,13 @@ and enabling TAs to spend more time working directly with students
 by freeing them from the "busy work" of grading.
 
 
-
 ## Teaching with Version Control
 
     Randall J. LeVeque
     Applied Mathematics Department
     University of Washington
+
+* [slides](slides/ms78-leveque.pdf)
 
 The use of version control is widely viewed as a best practice in
 the development of software, not only for large scale projects with
@@ -54,6 +57,7 @@ in courses.  I will describe some recent attempts to introduce it
 into the computational curriculum by requiring students to access
 course materials, submit homework, and collaborate on group projects
 via GitHub or BitBucket repositories.
+
 
 ## Teaching Computing to Engineers
 
