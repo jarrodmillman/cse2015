@@ -79,5 +79,5 @@ making computing a core pedagogical instrument.
 
 ## Community discussion
 
-* [Notes for community discussion](https://github.com/jarrodmillman/cse2015/wiki)
+* [Notes from community discussion](https://github.com/jarrodmillman/cse2015/wiki)
 
