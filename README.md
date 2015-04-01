@@ -77,6 +77,8 @@ scientific computing to make discoveries, but in education. I will describe how
 this thinking has been inspiring several educational initiatives aiming at
 making computing a core pedagogical instrument.
 
+* [slides](http://dx.doi.org/10.6084/m9.figshare.1363841)
+
 ## Community discussion
 
 * [Notes from community discussion](https://github.com/jarrodmillman/cse2015/wiki)
